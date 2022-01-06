@@ -1,0 +1,17 @@
+package View;
+
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+
+public class Frame {
+	private JFrame frame;
+	private JPanel panel;
+	
+public Frame() {
+	frame = new JFrame("Sink Ship");
+	
+	
+}
+
+}
